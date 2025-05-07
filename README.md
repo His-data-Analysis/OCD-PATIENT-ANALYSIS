@@ -1,4 +1,4 @@
-# OCD-PATIENT-ANALYSIS
+# Obsessive-Compulsive Disorder(OCD)-PATIENT-ANALYSIS
 
 The main purpose of this project was to learn SQL and POWER BI.
 
